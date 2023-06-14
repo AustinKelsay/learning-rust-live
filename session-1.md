@@ -95,7 +95,7 @@ Your terminal should now print "Hello, world!".
 - Once compiled successfully, Rust outputs a binary executable which you can run. 
 - This feature allows you to distribute your programs as executables, independent of whether the receiver has Rust installed or not.
 
-## #Cargo
+## #cargo
 - Rust's build system and package manager
 - Handles tasks like building code, downloading and building dependencies
 - Installed with Rust if you used the official installers
@@ -110,8 +110,8 @@ Your terminal should now print "Hello, world!".
 - Initializes a new Git repository along with a .gitignore file
 
 
-### #Cargo.toml
-- Configuration file in TOML format
+### Cargo.toml
+- Configuration file in #TOML format
 - Contains package info and dependencies list
 - [dependencies] is for listing any project's dependencies
 

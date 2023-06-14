@@ -14,3 +14,5 @@ Cargo.lock
 
 # Rust Test Output
 **/*.rs.*
+
+*.DS_Store
